@@ -8,7 +8,7 @@ IJ.Start.Canon| Canon.com/ijsetup| IJ Start Canon Setup
     :align: center
     :height: 100px
     :alt: Canon.com/ijsetup
-    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    :target: https://can.printredir.com
     
     
     
